@@ -2,8 +2,7 @@
 
 ## Student Name
 
-Your Name
-
+Boppudi Indu Sri
 ## Repository Description
 
 This project demonstrates GitHub repository creation, branching, merging, and hosting a simple HTML webpage containing a video element.
